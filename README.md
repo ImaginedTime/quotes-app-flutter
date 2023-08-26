@@ -5,7 +5,9 @@ It is the files named Quotes.apk
 
 ### Below is the picture of the working app
 
-![Screenshot](Screenshot.png)
+<div style="text-align: center">
+    <img src="Screenshot.png" alt="mypic" style="width:300px;"/>
+</div>
 
 # qoutes
 
