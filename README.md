@@ -1,3 +1,12 @@
+# Quotes App
+A flutter app that shows quotes.
+You can install the app directly by installing the apk file given.
+It is the files named Quotes.apk
+
+### Below is the picture of the working app
+
+![Screenshot](Screenshot.png)
+
 # qoutes
 
 A new Flutter project.
