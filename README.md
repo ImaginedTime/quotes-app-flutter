@@ -1,7 +1,7 @@
 # Quotes App
 A flutter app that shows quotes.
-You can install the app directly by installing the apk file given.
-It is the files named Quotes.apk
+You can install the app by going to release section of the github repository and downloading the apk file.
+Or you can directly click on [this link](https://github.com/ImaginedTime/quotes-app-flutter/releases/download/app/Quotes-v1.0.0.apk)
 
 ### Below is the picture of the working app
 
